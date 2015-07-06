@@ -9,7 +9,6 @@
 [![Coverage Status](https://img.shields.io/scrutinizer/coverage/g/FriendsOfBundle/HelloGraylogBundle.svg?style=flat-square)](https://scrutinizer-ci.com/g/FriendsOfBundle/HelloGraylogBundle/code-structure)
 [![Quality Score](https://img.shields.io/scrutinizer/g/FriendsOfBundle/HelloGraylogBundle.svg?style=flat-square)](https://scrutinizer-ci.com/g/FriendsOfBundle/HelloGraylogBundle)
 [![HHVM Status](https://img.shields.io/hhvm/hgtan/graylog-bundle.svg?style=flat-square)](http://hhvm.h4cc.de/package/hgtan/graylog-bundle)
-[![Dependency Status](https://img.shields.io/versioneye/d/user/projects/55964fbb616634001b000001.svg?style=flat-square)](https://www.versioneye.com/user/projects/55964fbb616634001b000001)
 
 [![SensioLabsInsight](https://insight.sensiolabs.com/projects/046850bd-9b04-4086-aaa1-b834401b8e94/big.png)](https://insight.sensiolabs.com/projects/046850bd-9b04-4086-aaa1-b834401b8e94)
 
