@@ -1,7 +1,7 @@
 {
-    "name": "hgtan/graylog-bundle",    
-    "description": "Hello Graylog2 Bundle",
+    "name": "hgtan/graylog-bundle",
     "type": "symfony-bundle",
+    "description": "Hello Graylog2 Bundle",
     "homepage": "http://hoangthienan.github.io",
     "license": "MIT",
     "authors": [
