@@ -1,0 +1,3 @@
+hgtan_hello_graylog_homepage:
+    path:     /hello/{name}
+    defaults: { _controller: HgtanHelloGraylogBundle:Default:index }

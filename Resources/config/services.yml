@@ -1,0 +1,19 @@
+services:
+#    hgtan_hello_graylog.example:
+#        class: Hgtan\Bundle\HelloGraylogBundle\Example
+#        arguments: [@service_id, "plain_value", %parameter%]
+
+    gelf.udp.transport:
+        class: Gelf\Transport\UdpTransport
+        arguments: [%graylog_host%, %graylog_port%]
+    gelf.publisher:
+        class: Gelf\Publisher
+        arguments: [@gelf.udp.transport]
+    monolog.gelf_handler:
+        class: Monolog\Handler\GelfHandler
+        arguments: [@gelf.publisher]
+
+    #monolog.processor.web_processor:
+    #     class: Monolog\Processor\WebProcessor
+    #     tags:
+    #       - { name: monolog.processor, method: __invoke }
