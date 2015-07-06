@@ -11,7 +11,7 @@
 [![HHVM Status](https://img.shields.io/hhvm/hgtan/graylog-bundle.svg?style=flat-square)](http://hhvm.h4cc.de/package/hgtan/graylog-bundle)
 [![Dependency Status](https://img.shields.io/versioneye/d/user/projects/55964fbb616634001b000001.svg?style=flat-square)](https://www.versioneye.com/user/projects/55964fbb616634001b000001)
 
-[![SensioLabsInsight](https://insight.sensiolabs.com/projects/4e4c6ca7-f398-44d1-8472-4b24bd1c32de/big.png)](https://insight.sensiolabs.com/projects/4e4c6ca7-f398-44d1-8472-4b24bd1c32de)
+[![SensioLabsInsight](https://insight.sensiolabs.com/projects/046850bd-9b04-4086-aaa1-b834401b8e94/big.png)](https://insight.sensiolabs.com/projects/046850bd-9b04-4086-aaa1-b834401b8e94)
 
 Connecting logging through Graylog2 to projects on Symfony2 and the following Library:
 * [Graylog2 gelf-php](https://github.com/graylog2/gelf-php)
