@@ -2,7 +2,7 @@
 
 <phpunit colors="true" bootstrap="vendor/autoload.php">
     <testsuites>
-        <testsuite name="HelloDoctrineMongoDBBundle test suite">
+        <testsuite name="HelloGraylogBundle test suite">
             <directory>./Tests</directory>
         </testsuite>
     </testsuites>
