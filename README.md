@@ -1,4 +1,4 @@
-# HelloGreylogBundle
+# HelloGraylogBundle
 
 [![Latest Stable Version](https://poser.pugx.org/hgtan/graylog-bundle/v/stable)](https://packagist.org/packages/hgtan/graylog-bundle) 
 [![Total Downloads](https://poser.pugx.org/hgtan/graylog-bundle/downloads)](https://packagist.org/packages/hgtan/graylog-bundle) 
