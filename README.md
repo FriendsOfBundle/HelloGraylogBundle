@@ -64,5 +64,16 @@ Then register the bundle with your kernel:
     $ php app/console server:run
     
     http://127.0.0.1:8000/hello/graylog
+    
+```
+```
+    $logger = new Logger('Graylog2');
 
+    $gelfHandler = $this->get('monolog.gelf_handler');
+    $logger->pushHandler($gelfHandler);
+
+    $logger->warning('Test warning message');
+    $logger->error('Test error message');
+    $logger->info('Test info message');
+    $logger->debug('Test debug message');
 ```
