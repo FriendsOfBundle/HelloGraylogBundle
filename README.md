@@ -66,6 +66,7 @@ Then register the bundle with your kernel:
     http://127.0.0.1:8000/hello/graylog
     
 ```
+Example:
 ```
     $logger = new Logger('Graylog2');
 
