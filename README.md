@@ -42,8 +42,6 @@ Then register the bundle with your kernel:
 
 ### Step 3 : Configure the bundle
 
-Then register the bundle with your kernel:
-
 ```
     # app/config/parameters.yml
     parameters:
@@ -77,4 +75,6 @@ Example:
     $logger->error('Test error message');
     $logger->info('Test info message');
     $logger->debug('Test debug message');
+
+    http://172.16.4.105:9000/
 ```
